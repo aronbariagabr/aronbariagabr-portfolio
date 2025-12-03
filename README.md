@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aron Ukbay Bariagabr 👋
 
-<!--
-**aronbariagabr/aronbariagabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Full Stack Java Developer with 4+ years of experience building secure, scalable, and high-performance applications in healthcare and finance. I specialize in backend, frontend, and mobile development, with a strong focus on mission-driven solutions.  
+**US Citizen — no sponsorship required.**
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Backend:** Java, Spring Boot, Hibernate, REST APIs, WebSocket, Microservices
+- **Frontend:** React, Angular, React Native, TypeScript
+- **Databases:** Oracle, MySQL, PostgreSQL, SQL Server
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Jenkins
+- **Monitoring:** Prometheus, ELK Stack
+- **Other:** Python (automation), C++ (performance-critical modules)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience Highlights
+- **CVS Health**  
+  Led HIPAA-compliant EHR development, improving clinical efficiency by 26% and supporting 1.5M+ patient records.
+- **DXC Technology**  
+  Engineered financial platforms, reducing backend processing time by 18%.
+- **Early-stage SaaS**  
+  Designed and scaled Go-based API for real-time transaction processing.
+
+## 🎯 Interests
+- Cloud-native architecture and AI/ML workloads  
+- Developer enablement and platform engineering  
+- Exploring blockchain for transparency and scalability  
+- Hiking in the Bay Area for inspiration  
+
+## 📫 Contact
+- Email: aron@example.com  
+- GitHub: [github.com/aronbariagabr](https://github.com/aronbariagabr)
