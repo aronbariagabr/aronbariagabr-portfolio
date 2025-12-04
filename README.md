@@ -27,5 +27,5 @@ Full Stack Java Developer with 4+ years of experience building secure, scalable,
 - Hiking in the Bay Area for inspiration  
 
 ## 📫 Contact
-- Email: aron@example.com  
+- Email: bariagabra@gmail.com  
 - GitHub: [github.com/aronbariagabr](https://github.com/aronbariagabr)
