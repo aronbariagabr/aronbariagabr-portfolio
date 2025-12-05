@@ -17,8 +17,6 @@ Full Stack Java Developer with 4+ years of experience building secure, scalable,
   Led HIPAA-compliant EHR development, improving clinical efficiency by 26% and supporting 1.5M+ patient records.
 - **DXC Technology**  
   Engineered financial platforms, reducing backend processing time by 18%.
-- **Early-stage SaaS**  
-  Designed and scaled Go-based API for real-time transaction processing.
 
 ## 🎯 Interests
 - Cloud-native architecture and AI/ML workloads  
