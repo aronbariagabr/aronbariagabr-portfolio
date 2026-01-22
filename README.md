@@ -27,3 +27,4 @@ Full Stack Java Developer with 4+ years of experience building secure, scalable,
 ## 📫 Contact
 - Email: bariagabra@gmail.com  
 - GitHub: [github.com/aronbariagabr](https://github.com/aronbariagabr)
+- LinkedIn : https://www.linkedin.com/in/aron-ukbay-bariagabr-5551a8391/
