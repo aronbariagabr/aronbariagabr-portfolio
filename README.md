@@ -47,27 +47,6 @@ I specialize in backend, frontend, and mobile development, with a strong focus o
 - Exploring blockchain for transparency and scalability  
 - Hiking in the Bay Area for inspiration  
 
-## 📌 Featured Projects
-
-### [Portfolio Website](https://github.com/aronbariagabr/aronbariagabr-portfolio)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/aronbariagabr/aronbariagabr-portfolio/maven.yml?branch=main)](https://github.com/aronbariagabr/aronbariagabr-portfolio/actions)
-[![License](https://img.shields.io/github/license/aronbariagabr/aronbariagabr-portfolio)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/aronbariagabr/aronbariagabr-portfolio?style=social)](https://github.com/aronbariagabr/aronbariagabr-portfolio/stargazers)
-
----
-
-### [Spring Boot Patient API](https://github.com/aronbariagabr/springboot-patient-api)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/aronbariagabr/springboot-patient-api/maven.yml?branch=main)](https://github.com/aronbariagabr/springboot-patient-api/actions)
-[![Issues](https://img.shields.io/github/issues/aronbariagabr/springboot-patient-api)](https://github.com/aronbariagabr/springboot-patient-api/issues)
-[![Stars](https://img.shields.io/github/stars/aronbariagabr/springboot-patient-api?style=social)](https://github.com/aronbariagabr/springboot-patient-api/stargazers)
-
----
-
-### [React Finance Dashboard](https://github.com/aronbariagabr/react-finance-dashboard)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/aronbariagabr/react-finance-dashboard/maven.yml?branch=main)](https://github.com/aronbariagabr/react-finance-dashboard/actions)
-[![Stars](https://img.shields.io/github/stars/aronbariagabr/react-finance-dashboard?style=social)](https://github.com/aronbariagabr/react-finance-dashboard/stargazers)
-[![Issues](https://img.shields.io/github/issues/aronbariagabr/react-finance-dashboard)](https://github.com/aronbariagabr/react-finance-dashboard/issues)
-
 
 ---
 
