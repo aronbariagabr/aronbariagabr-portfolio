@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-Full Stack Java Developer with 4+ years of experience building secure, scalable, and high-performance applications in healthcare and finance.  
+Full Stack Java Developer with 5+ years of experience building secure, scalable, and high-performance applications in healthcare and finance.  
 I specialize in backend, frontend, and mobile development, with a strong focus on mission-driven solutions.  
 **US Citizen — no sponsorship required.**
 
