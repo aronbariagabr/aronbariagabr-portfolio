@@ -78,19 +78,20 @@ I specialize in backend, frontend, and cloud-native systems, with a strong focus
 ---
 ## 📂 Repository Structure
 
+```text
 aronbariagabr-portfolio/
 ├── src/
-│   ├── components/        # Reusable React components
-│   ├── pages/             # Portfolio pages (Home, Projects, Contact)
-│   ├── assets/            # Images, icons, styles
-│   └── App.jsx
-├── public/                # Static files
-├── tests/                 # Jest/RTL unit tests
-├── package.json
+│   ├── components/    # Reusable UI elements
+│   ├── pages/         # Views (Home, Projects, etc.)
+│   ├── assets/        # Styles and media
+│   └── App.jsx        # Main Entry Point
+├── tests/             # Unit & Integration tests
+├── package.json       # Dependencies & Scripts
 └── README.md
 
-## 🏗️ Box‑Style Architecture Diagram
+## 🏗️ Architecture Diagram
 
+```text
 ┌───────────────────────────────┐
 │        User Interface         │
 │   React Components & Pages    │
@@ -115,6 +116,8 @@ aronbariagabr-portfolio/
 │       Deployment Layer        │
 │     GitHub Pages / CI/CD      │
 └───────────────────────────────┘
+
+
 
 ## 💼 Experience Highlights
 - **CVS Health**  
