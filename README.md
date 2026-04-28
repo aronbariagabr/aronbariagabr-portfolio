@@ -92,28 +92,28 @@ aronbariagabr-portfolio/
 ## 🏗️ Box‑Style Architecture Diagram
 
 ┌───────────────────────────────┐
-│          User Interface        │
-│   React Components & Pages     │
+│        User Interface         │
+│   React Components & Pages    │
 └───────────────┬───────────────┘
                 │
 ┌───────────────┴───────────────┐
-│        State Management        │
-│   React Hooks / Context API    │
+│       State Management        │
+│    React Hooks / Context API  │
 └───────────────┬───────────────┘
                 │
 ┌───────────────┴───────────────┐
-│        Data Layer              │
-│   API calls / JSON configs     │
+│          Data Layer           │
+│    API calls / JSON configs   │
 └───────────────┬───────────────┘
                 │
 ┌───────────────┴───────────────┐
-│        Testing Suite           │
-│   Jest / React Testing Library │
+│        Testing Suite          │
+│  Jest / React Testing Library │
 └───────────────┬───────────────┘
                 │
 ┌───────────────┴───────────────┐
-│        Deployment Layer        │
-│   GitHub Pages / CI/CD         │
+│       Deployment Layer        │
+│     GitHub Pages / CI/CD      │
 └───────────────────────────────┘
 
 ## 💼 Experience Highlights
