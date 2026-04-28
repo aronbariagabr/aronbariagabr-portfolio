@@ -76,6 +76,45 @@ I specialize in backend, frontend, and cloud-native systems, with a strong focus
 [![Performance](https://img.shields.io/badge/Backend-Optimization-green)]()
 
 ---
+## 📂 Repository Structure
+
+aronbariagabr-portfolio/
+├── src/
+│   ├── components/        # Reusable React components
+│   ├── pages/             # Portfolio pages (Home, Projects, Contact)
+│   ├── assets/            # Images, icons, styles
+│   └── App.jsx
+├── public/                # Static files
+├── tests/                 # Jest/RTL unit tests
+├── package.json
+└── README.md
+
+## 🏗️ Box‑Style Architecture Diagram
+
+┌───────────────────────────────┐
+│          User Interface        │
+│   React Components & Pages     │
+└───────────────┬───────────────┘
+                │
+┌───────────────┴───────────────┐
+│        State Management        │
+│   React Hooks / Context API    │
+└───────────────┬───────────────┘
+                │
+┌───────────────┴───────────────┐
+│        Data Layer              │
+│   API calls / JSON configs     │
+└───────────────┬───────────────┘
+                │
+┌───────────────┴───────────────┐
+│        Testing Suite           │
+│   Jest / React Testing Library │
+└───────────────┬───────────────┘
+                │
+┌───────────────┴───────────────┐
+│        Deployment Layer        │
+│   GitHub Pages / CI/CD         │
+└───────────────────────────────┘
 
 ## 💼 Experience Highlights
 - **CVS Health**  
