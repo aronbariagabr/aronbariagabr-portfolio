@@ -76,6 +76,20 @@ I specialize in backend, frontend, and cloud-native systems, with a strong focus
 [![Performance](https://img.shields.io/badge/Backend-Optimization-green)]()
 
 ---
+---
+
+## 🚀 Quickstart
+
+Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher).
+
+1. **Clone & Enter**
+   ```bash
+   git clone [https://github.com/aronbariagabr/aronbariagabr-portfolio.git](https://github.com/aronbariagabr/aronbariagabr-portfolio.git)
+   cd aronbariagabr-portfolio
+npm install
+npm run dev
+
+
 ## 📂 Repository Structure
 
 ```text
