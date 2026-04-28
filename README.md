@@ -77,6 +77,11 @@ I specialize in backend, frontend, and cloud-native systems, with a strong focus
 
 ---
 ---
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aron%20Bariagabr-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aron-ukbay-bariagabr-5551a8391/)
+[![GitHub](https://img.shields.io/badge/GitHub-aronbariagabr-black?style=flat&logo=github)](https://github.com/aronbariagabr)
+[![Email](https://img.shields.io/badge/Email-bariagabra%40gmail.com-red?style=flat&logo=gmail)](mailto:bariagabra@gmail.com)
+
 
 ## 🚀 Quickstart
 Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher).
@@ -147,8 +152,3 @@ aronbariagabr-portfolio/
 - Hiking in the Bay Area for inspiration  
 
 ---
-
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aron%20Bariagabr-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aron-ukbay-bariagabr-5551a8391/)
-[![GitHub](https://img.shields.io/badge/GitHub-aronbariagabr-black?style=flat&logo=github)](https://github.com/aronbariagabr)
-[![Email](https://img.shields.io/badge/Email-bariagabra%40gmail.com-red?style=flat&logo=gmail)](mailto:bariagabra@gmail.com)
