@@ -82,25 +82,6 @@ I specialize in backend, frontend, and cloud-native systems, with a strong focus
 [![GitHub](https://img.shields.io/badge/GitHub-aronbariagabr-black?style=flat&logo=github)](https://github.com/aronbariagabr)
 [![Email](https://img.shields.io/badge/Email-bariagabra%40gmail.com-red?style=flat&logo=gmail)](mailto:bariagabra@gmail.com)
 
-## 🔮 Future Work
-
-I am constantly evolving this portfolio to showcase more complex integrations. Planned updates include:
-
-* **Dark Mode Toggle:** implementing CSS-in-JS for a dynamic theme experience.
-* **Backend Integration:** Connecting a Spring Boot microservice to handle dynamic project data.
-* **Analytics Dashboard:** A custom-built visualization tab using Recharts for financial data demo.
-* **Global State:** Migrating from Context API to Redux Toolkit for complex state management.
-
-## 🚀 Quickstart
-Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher).
-
-1. **Clone & Enter**
-   ```bash
-   git clone [https://github.com/aronbariagabr/aronbariagabr-portfolio.git](https://github.com/aronbariagabr/aronbariagabr-portfolio.git)
-   cd aronbariagabr-portfolio
-   npm install
-   npm run dev
-
 
 ## 📂 Repository Structure
 
@@ -114,6 +95,21 @@ aronbariagabr-portfolio/
 ├── tests/             # Unit & Integration tests
 ├── package.json       # Dependencies & Scripts
 └── README.md
+
+
+
+## 🚀 Quickstart
+Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher).
+
+1. **Clone & Enter**
+   ```bash
+   git clone [https://github.com/aronbariagabr/aronbariagabr-portfolio.git](https://github.com/aronbariagabr/aronbariagabr-portfolio.git)
+   cd aronbariagabr-portfolio
+   npm install
+   npm run dev
+
+
+
 
 ## 🏗️ Architecture Diagram
 
@@ -168,3 +164,12 @@ I follow a professional Git-flow and CI/CD process to ensure code quality and st
 - Hiking in the Bay Area for inspiration  
 
 ---
+
+## 🔮 Future Work
+
+I am constantly evolving this portfolio to showcase more complex integrations. Planned updates include:
+
+* **Dark Mode Toggle:** implementing CSS-in-JS for a dynamic theme experience.
+* **Backend Integration:** Connecting a Spring Boot microservice to handle dynamic project data.
+* **Analytics Dashboard:** A custom-built visualization tab using Recharts for financial data demo.
+* **Global State:** Migrating from Context API to Redux Toolkit for complex state management.
