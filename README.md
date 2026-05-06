@@ -173,6 +173,7 @@ I am constantly evolving this portfolio to showcase more complex integrations. P
 * **Backend Integration:** Connecting a Spring Boot microservice to handle dynamic project data.
 * **Analytics Dashboard:** A custom-built visualization tab using Recharts for financial data demo.
 * **Global State:** Migrating from Context API to Redux Toolkit for complex state management.
+```
 
 ## 🏗️ Architecture Diagram (Mermaid)
 
