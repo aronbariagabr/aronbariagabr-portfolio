@@ -179,10 +179,10 @@ I am constantly evolving this portfolio to showcase more complex integrations. P
 
 ```mermaid
 flowchart TD
-    A[User Interface\nReact Components & Pages] --> B[State Management\nReact Hooks / Context API]
-    B --> C[Data Layer\nAPI calls / JSON configs]
-    C --> D[Testing Suite\nJest / React Testing Library]
-    D --> E[Deployment Layer\nGitHub Pages / CI/CD]
+    A[User Interface\nReact Components & Pages] --> B[State Management\nReact Hooks /Context API]
+    B --> C[Data Layer\nAPI calls/JSON configs]
+    C --> D[Testing Suite\nJest/React Testing Library]
+    D --> E[Deployment Layer\nGitHub Pages/CI/CD]
 
 
 
