@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-Full Stack Java Developer with 6+ years of experience building secure, scalable, and high-performance applications in healthcare and finance.  
-I specialize in backend, frontend, and cloud-native systems, with a strong focus on mission-driven solutions.  
+Results driven Java Full Stack Developer with 6+ years of experience designing, developing, and maintaining enterprise applications across healthcare, financial services, and telecommunications domains. Experienced in Java, Spring Boot, Microservices, REST APIs, React, Angular, Hibernate, SQL, PostgreSQL, Oracle, Microsoft SQL Server, AWS, and Microsoft Azure. Skilled in building scalable cloud-based applications, developing secure APIs, optimizing application performance, and implementing CI/CD pipelines using Docker, Kubernetes, Jenkins, and Git. Strong experience working in Agile Scrum environments, delivering high quality software solutions while collaborating with cross functional teams.
 **US Citizen — no sponsorship required.**
 
 ---
