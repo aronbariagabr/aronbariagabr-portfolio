@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-Results driven Java Full Stack Developer with 6+ years of experience designing, developing, and maintaining enterprise applications across healthcare, financial services, and telecommunications domains. Experienced in Java, Spring Boot, Microservices, REST APIs, React, Angular, Hibernate, SQL, PostgreSQL, Oracle, Microsoft SQL Server, AWS, and Microsoft Azure. Skilled in building scalable cloud-based applications, developing secure APIs, optimizing application performance, and implementing CI/CD pipelines using Docker, Kubernetes, Jenkins, and Git. Strong experience working in Agile Scrum environments, delivering high quality software solutions while collaborating with cross functional teams.
+Results driven Java Full Stack Developer with 6+ years of experience designing, developing, and maintaining enterprise applications across healthcare, financial services, and telecommunications industries. Proficient in Java, Spring Boot, Microservices, RESTful APIs, React, Angular, Hibernate, SQL, PostgreSQL, Oracle, SQL Server, AWS, and Microsoft Azure. Experienced in building scalable cloud-based applications, designing secure APIs, developing distributed systems, optimizing application performance, and implementing CI/CD pipelines using Docker, Kubernetes, Jenkins, and Git. Strong knowledge of software design, database optimization, cloud technologies, Agile Scrum methodologies, and enterprise application development with a focus on delivering secure, reliable, and high-performance solutions.
 **US Citizen — no sponsorship required.**
 
 ---
