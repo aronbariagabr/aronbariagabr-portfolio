@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-Results driven Java Full Stack Developer with 6+ years of experience designing, developing, and maintaining enterprise applications across healthcare, financial services, and telecommunications industries. Proficient in Java, Spring Boot, Microservices, RESTful APIs, React, Angular, Hibernate, SQL, PostgreSQL, Oracle, SQL Server, AWS, and Microsoft Azure. Experienced in building scalable cloud-based applications, designing secure APIs, developing distributed systems, optimizing application performance, and implementing CI/CD pipelines using Docker, Kubernetes, Jenkins, and Git. Strong knowledge of software design, database optimization, cloud technologies, Agile Scrum methodologies, and enterprise application development with a focus on delivering secure, reliable, and high-performance solutions.
+Java Full Stack Developer with over 6 years of experience designing, developing, and supporting enterprise applications in the healthcare and financial services industries. Experienced in building scalable web applications, microservices, and cloud-based solutions using Java, Spring Boot, React, AWS, and Azure. Contributed to the development of EHR and PMS platforms at CVS Health, improving workflow efficiency by 26% and supporting systems managing over 1.5 million patient records with 99.9% availability. Developed predictive analytics solutions using Deeplearning4j to enhance business decision making and operational efficiency. Strong background in REST APIs, database design, cloud technologies, CI/CD pipelines, and Agile Scrum methodologies. Passionate about delivering secure, high performance, and reliable software solutions that drive business value.
 **US Citizen — no sponsorship required.**
 
 ---
