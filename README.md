@@ -183,6 +183,20 @@ flowchart TD
     C --> D[Testing Suite\nJest/React Testing Library]
     D --> E[Deployment Layer\nGitHub Pages/CI/CD]
 
+    %% Define color classes
+    classDef ui fill:#ffcc00,stroke:#333,stroke-width:2px;
+    classDef state fill:#00ccff,stroke:#333,stroke-width:2px;
+    classDef data fill:#66ff66,stroke:#333,stroke-width:2px;
+    classDef test fill:#ff6666,stroke:#333,stroke-width:2px;
+    classDef deploy fill:#cc99ff,stroke:#333,stroke-width:2px;
+
+    %% Apply classes
+    class A ui;
+    class B state;
+    class C data;
+    class D test;
+    class E deploy;
+
 
 
 
