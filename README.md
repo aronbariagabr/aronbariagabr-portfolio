@@ -184,7 +184,8 @@ Pages] --> B[State Management\nReact Hooks/Context API]
     C --> D[Testing Suite\nJest/
     React 
     Testing Library]
-    D --> E[Deployment Layer\nGitHub Pages/CI/CD]
+    D --> E[Deployment Layer\nGitHub Pages/
+    CI/CD]
 
     %% Define color classes
     classDef ui fill:#ffcc00,stroke:#333,stroke-width:2px;
