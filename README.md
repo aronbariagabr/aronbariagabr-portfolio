@@ -181,7 +181,8 @@ flowchart TD
     A[User Interface\nReact Components &
 Pages] --> B[State Management\nReact Hooks/Context API]
     B --> C[Data Layer\nAPI calls/JSON Configuration]
-    C --> D[Testing Suite\nJest/React Testing Library]
+    C --> D[Testing Suite\nJest/
+    React Testing Library]
     D --> E[Deployment Layer\nGitHub Pages/CI/CD]
 
     %% Define color classes
