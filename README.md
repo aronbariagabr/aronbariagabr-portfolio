@@ -180,7 +180,7 @@ I am constantly evolving this portfolio to showcase more complex integrations. P
 flowchart TD
     A[User Interface\nReact Components &
 Pages] --> B[State Management\nReact Hooks/Context API]
-    B --> C[Data Layer\nAPI calls/JSON configs]
+    B --> C[Data Layer\nAPI calls/JSON Configuration]
     C --> D[Testing Suite\nJest/React Testing Library]
     D --> E[Deployment Layer\nGitHub Pages/CI/CD]
 
